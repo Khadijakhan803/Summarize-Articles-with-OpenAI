@@ -6,7 +6,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
         <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src={logo} alt="" className='w-28 object-contain'/>
-            <button type='button' className='black_btn' onClick={()=> window.open('https://github.com/adrianhajdin/project_ai_summarizer')}>
+            <button type='button' className='black_btn' onClick={()=> window.open('https://github.com/Khadijakhan803/Summarize-Articles-with-OpenAI/')}>
                 Github
             </button>
         </nav>
